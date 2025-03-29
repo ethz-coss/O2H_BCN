@@ -1,13 +1,13 @@
 # O2H_BCN
 
-**Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona**
+#**Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona**
 
-\begin{highlights}
-\item {Developed a spatial econometric model to estimate OD traffic matrices in Barcelona.}
-\item {Built a non-parametric SLX model with spatial lagged effects using gradient boosting.}
-\item {Matched the accuracy of common spatial autoregression models with more flexibility.}
-\item {Estimated traffic after converting offices into housing and other uses in Barcelona.}
-\item {Discovered that densification may reduce vehicle flows despite increased population.}
+# Highlights
+- Developed a spatial econometric model to estimate OD traffic matrices in Barcelona.
+- Built a non-parametric SLX model with spatial lagged effects using gradient boosting.
+- Matched the accuracy of common spatial autoregression models with more flexibility.
+- Estimated traffic after converting offices into housing and other uses in Barcelona.
+- Discovered that densification may reduce vehicle flows despite increased population.
 
 ![Results](fig_graph_abstr.drawio_v10.jpg)
 
