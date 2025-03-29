@@ -1,6 +1,6 @@
 # O2H_BCN
 
-#**Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona**
+# **Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona**
 
 # Highlights
 - Developed a spatial econometric model to estimate OD traffic matrices in Barcelona.
