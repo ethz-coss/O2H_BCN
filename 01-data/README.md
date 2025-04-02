@@ -1,0 +1,3 @@
+- *01-data/ATM* contains SHP files Traffic Assignment Zones (TAZ) divided per counties (*comarques*).
+- *01-data/CZT_zones_EMO96_ALL_DATA_catastro_INE_OSM_GHSL_173cols_sorted_03.pkl.pbz2* contains geospatial data used for modelling per each of the 577 TAZs.
+- *01-data/OD_vect_on_origin_data_v26wq_selected_cols.pbz2* contains variables used in modeling per each of the OD pairs, including mobility data from the Spanish National Statistics Institute (INE) data. For accessing the *daily_flow* variables (main dependent variables) please, contact the corresponding author of the article.
