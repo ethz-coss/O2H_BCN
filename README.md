@@ -1,5 +1,5 @@
 # **Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona**
-Data and code repository for the article *Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona*
+Data and code repository for the article Argota Sánchez-Vaquerizo, J., & Helbing, D. (2025). *Spatial econometrics to estimate traffic reduction by transforming office space into housing and other land uses: The case for Barcelona.* Cities, 162, 105901. https://doi.org/10.1016/j.cities.2025.105901
 
 # Highlights
 - Developed a spatial econometric model to estimate OD traffic matrices in Barcelona.
